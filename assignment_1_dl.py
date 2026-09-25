@@ -2,8 +2,10 @@
 # # RTI 502 – Deep Learning Assignment 1
 # ## Training and Testing a Neural Network on MNIST Using PyTorch
 # 
-# **Group Number:3**  
-# **Group Members:**  
+# **Group Number: 3**  
+# **Group Members:** 
+# MOHAMMAD ABDALROUF M ALNAGHMOUS  |  2230004028  | FAISAL ADEL MOHAMMAD JAHLAN  |  2230004102  | FAHAD SAAD SALEH ALMOEILI  |  2230004459  | ABDULLAH RAED MOHAMMED ALDALGAN  |  2230003902  
+# 
 
 # %% [markdown]
 # ## Task 1: Install and Import PyTorch
@@ -1143,6 +1145,13 @@ for bar, accuracy in zip(bars, test_accuracies):
 
 plt.tight_layout()
 plt.show()
+
+# %% [markdown]
+# ## Task 9: Save and Submit the Source Code
+# 
+# The complete Jupyter Notebook and Python source code were saved and uploaded to GitHub.
+# 
+# **GitHub Repository:** https://github.com/FaisalBinJahlan/Assigment-1-DL.git
 
 # %%
 
