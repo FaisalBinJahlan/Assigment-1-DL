@@ -2,7 +2,7 @@
 # # RTI 502 – Deep Learning Assignment 1
 # ## Training and Testing a Neural Network on MNIST Using PyTorch
 # 
-# **Group Number:**  
+# **Group Number:3**  
 # **Group Members:**  
 
 # %% [markdown]
